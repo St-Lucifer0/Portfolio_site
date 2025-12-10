@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Code, Database, Globe, Smartphone } from 'lucide-react';
 
 const skills = [

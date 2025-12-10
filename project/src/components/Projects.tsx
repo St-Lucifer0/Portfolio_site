@@ -26,12 +26,12 @@ const projects = [
     demo: 'https://example.com'
   },
   {
-    title: 'ProjectHub - Collaborative Development Platform',
+    title: 'Synergy-Collaborative Development Platform',
     description: 'Built platform connecting developers and engineers with clients for project consultation and collaboration. Serves as admin while managing a network of technical experts across multiple domains.',
-    image: 'https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/logo/synergy-logo.png',
     tech: ['Platform Development', 'User Management', 'Collaboration Tools', 'Full-Stack'],
     github: 'https://github.com/St-Lucifer0',
-    demo: 'https://example.com'
+    demo: 'https://synergy-consult.vercel.app?/v=1'
   }
 ];
 
