@@ -14,7 +14,7 @@ export function Hero() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
         <div className="animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-slate-600 dark:text-white">Hi, I'm</span>
+            <span className="text-gray-900 dark:text-white">Hi, I'm</span>
             <br />
             <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
               Anaman Jeremiah Akin

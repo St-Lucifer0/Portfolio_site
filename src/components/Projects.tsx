@@ -1,4 +1,5 @@
 import { ExternalLink, Github } from 'lucide-react';
+import synergyLogo from '../assets/synergy-logo.png';
 
 const projects = [
   {
@@ -28,7 +29,7 @@ const projects = [
   {
     title: 'Synergy-Collaborative Development Platform',
     description: 'Built platform connecting developers and engineers with clients for project consultation and collaboration. Serves as admin while managing a network of technical experts across multiple domains.',
-    image: '/logo/synergy-logo.png',
+    image: synergyLogo,
     tech: ['Platform Development', 'User Management', 'Collaboration Tools', 'Full-Stack'],
     github: 'https://github.com/St-Lucifer0',
     demo: 'https://synergy-consult.vercel.app?/v=1'
